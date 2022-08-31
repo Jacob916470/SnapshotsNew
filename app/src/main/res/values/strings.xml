@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SnapshotsNew</string>
+    <string name="home_title">Inicio</string>
+    <string name="home_profile">Perfil</string>
+    <string name="home_add">Crear</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="post_message_title">Seleccione una imagen</string>
+    <string name="post_valid_title">Por favor añada un titulo</string>
+    <string name="helper_requiered">Requerido</string>
+    <string name="log_out">Hasta pronto...</string>
+    <string name="dialog_delete_title">¿Eliminar tienda?</string>
+    <string name="dialog_delete_confirm">Eiminar</string>
+    <string name="dialog_delete_cancel">Cancelar</string>
+    <string name="message_success">Instantanea publicada.</string>
+    <string name="dialog_logout">¿Desea cerrar sesión?</string>
+    <string name="dialog_logout_confirm">Cerrar</string>
+    <string name="dialog_cancel_sesion">Cancelar</string>
+    <string name="post_message_image_fail">\"No se pudo subir, intente más tarde.\"</string>
+    <string name="message_error_delete_photo">Error al eliminar la foto</string>
+</resources>
